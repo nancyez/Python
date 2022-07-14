@@ -17,6 +17,8 @@ ambos.
 2.3 Ejercicio 3 (1.5 puntos)
 
 Calcular el perímetro y área de un rectángulo dada su base y su altura.
-Respuesta:
 
+
+Respuesta:
+https://colab.research.google.com/drive/18kik17z_-_odmLLoKpZkxtRvmtWyka8U?usp=sharing
 
