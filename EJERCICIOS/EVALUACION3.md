@@ -14,3 +14,7 @@ Simplifica la expresión 12-2{{(6-3)}^2}\div 3.
 3.3 Ejercicio 3 (2 puntos)
 
 Simplifica la expresión 12x+4[6-(3x+2)].
+
+
+
+https://colab.research.google.com/drive/1AWJNbzcSTPGjVZoOwKs6VwGBReQT4Auv?usp=sharing
