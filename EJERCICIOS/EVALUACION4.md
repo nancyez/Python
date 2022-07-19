@@ -39,3 +39,6 @@ cero.
 
 
 # TRATA DE RESOLVER Y AVANZAR LO MÁS POSIBLE EN LOS EJERICICIOS, EL MARTES HABILITO "AYUDAS" EN CADA EJERCICIO
+
+
+https://colab.research.google.com/drive/1iEohdAXrfFjKZ73u-2OeKF4OYjZ6FhIm?usp=sharing
