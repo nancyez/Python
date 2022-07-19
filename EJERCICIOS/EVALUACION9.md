@@ -31,3 +31,7 @@ tupla = (5,2,6,7,8,10,77,55,2,1,30,4,2,3)
 Obtener la suma de todos los elementos en la lista
 
 lista = [1,2,3,4]
+
+
+
+https://colab.research.google.com/drive/1w8MPwyIcpyNbnK7xT7ZXaDXEIp0eSw3q?usp=sharing
