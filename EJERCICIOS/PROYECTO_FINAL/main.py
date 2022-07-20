@@ -2,30 +2,30 @@
 Proyecto Básico de Python (El Ahorcado).
 Basado en el proyecto de: Kylie Ying (@kylieyying). 
 """
-import random
-import string
-from palabras import palabras
+import random #obtener números aleatorios
+import string #obtener cadena de carácteres
+from palabras import palabras 
 from ahorcado_diagramas import vidas_diccionario_visual
 
 
-def obtener_palabra_válida(palabras):
-    palabra = random.choice(palabras) 
+def obtener_palabra_válida(palabras): #constructor hace referencia al objeto creado
+    palabra = random.choice(palabras) #Inicializamos los atributos dandole valor
 
 
-    while '-' in palabra or ' ' in palabra:
+    while '-' in palabra or ' ' in palabra:#ejecuta un bloque de código de la lista palabras
         palabra = random.choice(palabras)
 
-    return palabra.upper()
+    return palabra.upper()#de la lista palabras devulve una cadena en mayúsculas
 
 
-def ahorcado():
+def ahorcado(): #funcion sin argumento
 
-    print("=======================================")
+    print("=======================================") #Muestra la bienvenida al jugador
     print(" ¡Bienvenido(a) al juego del Ahorcado! ")
     print("=======================================")
 
-    palabra = obtener_palabra_válida(palabras)
-    letras_por_adivinar = set(palabra)  
+    palabra = obtener_palabra_válida(palabras)#asigna valor a la palabra de la lista palabras válidas
+    letras_por_adivinar = set(palabra) #
     abecedario = set(string.ascii_uppercase) 
     letras_adivinadas = set()  
 
