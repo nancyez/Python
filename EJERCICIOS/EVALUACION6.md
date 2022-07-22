@@ -66,3 +66,6 @@ después de los 20 meses.
 Al finalizar los 20 meses pago en total:
 
 primer mes pago 10, segundo mes pago 20, tercer mes pago 30, cuarto mes pago 40, etc.
+
+
+https://colab.research.google.com/drive/1debMcTTbqHtZkJsn-dGfgYra2gLJvXKS?usp=sharing
